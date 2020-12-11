@@ -1,2 +1,2 @@
 # Blauncher
-Универсальный лаунчер для удобного запуска игры Battlefield 2142
+The program contains additional functions for the game battlefield 2142 (war of the future).
